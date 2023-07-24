@@ -1,45 +1,13 @@
 ---
-title: "Secrets To ML – Even In This Down Economy"
+title: "Why open-source is different? Standing on the shoulders of giants"
 
-date: "2018-05-18"
+date: "2023-07-21"
 
-tags: ["ml", "economy", "machine-learning", "ai"]
-
-
-links:
-    website: 'https://github.com/hadisinaee/avicenna'
-    alias: link_name_here
+tags: ["opensource"]
 ---
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
 
-{{< table_of_contents >}}
+Free and Open Source Software is becoming wildly popular among businesses and developers. According to a survey by WhiteSource Software, over 70% of companies use open source software in some capacity. Furthermore, 99% of new software projects rely on open source components for their development process. 
 
-# Header `I`
+What distinguishes closed source software from open-source software is in the duration of trust customers have in it. Closed source software will get replaced by its competitor when there is a chain of unfavorable decisions. When a set of users no longer agree with the direction the project is going, they will simply choose the alternative. A simple organizational change can shift the trust. 
 
-Nulla `fermentum blandit metus` sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-## Header 2
-
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-```go
-package main
-
-func main() {
-    println("Hello, World!")
-}
-
-```
-
-### Header 3
-
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-### Header 4
-Nulla `fermentum blandit metus` sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-Nulla `fermentum blandit metus` sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-# Header `II`
-
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
+However, in an open source project the code is openly available to the customer and can simply fork it to their use. They can start a discussion in the open-source community and file issues. The trust on the code and community lasts longer than one with the company.
